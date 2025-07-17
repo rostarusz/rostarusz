@@ -6,6 +6,23 @@
 
 <h1 align="center">Hello 👋 I am Rostislav Rusz</h1>
 
+<h3 align="left">📫 Connect with Me</h3>
+
+<div align="left">
+  <a href="https://rostislavrusz.art" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.instagram.com/rostarusz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rostislavrusz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/739751264" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
