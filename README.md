@@ -5,9 +5,6 @@
 ###
 
 <h1 align="center">Hello 👋 I am Rostislav Rusz</h1>
-
-<h3 align="left">📫 Connect with Me</h3>
-
 <div align="center">
   <a href="https://rostislavrusz.art" target="_blank">
     <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
