@@ -7,8 +7,7 @@
 <h1 align="center">Hello 👋 I am Rostislav Rusz</h1>
 
 ###
-###
-###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
