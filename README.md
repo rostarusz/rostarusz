@@ -5,11 +5,10 @@
 ###
 
 <h1 align="center">Hello 👋 I am Rostislav Rusz</h1>
-<br>
-<br>
 
 ###
-
+###
+###
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
